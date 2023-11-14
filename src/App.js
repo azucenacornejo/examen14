@@ -4,7 +4,7 @@ import componente from './componentes/componente';
 function App(){
   return (
     <div>
-      <Componente/>
+      <componente/>
     </div>
 
   );
