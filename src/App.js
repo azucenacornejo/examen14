@@ -1,10 +1,10 @@
-import logo from './logo.svg';
-import Componente from './componentes/Componente.jsx';
+import './App.css';
+import Componente from './Componentes/Componente';
 
 function App(){
   return (
     <div>
-      <Componente />
+      <Componente/>
     </div>
 
   );
